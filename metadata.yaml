@@ -1,0 +1,33 @@
+_repo: An-historical-and-moral-view-of-the-origin-and-progress-of-the-French-revolution-and-the-effe__68724
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wollstonecraft, Mary
+    aliases:
+    - Godwin, Mary Wollstonecraft
+    - Cresswick, Mr.
+    birthdate: 1759
+    deathdate: 1797
+    gutenberg_agent_id: '84'
+    url: http://www.gutenberg.org/2009/agents/84
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Wollstonecraft
+description: ''
+gutenberg_issued: '2022-08-10'
+identifiers:
+  gutenberg: '68724'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/100216213
+pgterms:marc905: 20201218145543wollstonec
+pgterms:marc906: '1794'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United Kingdom :J. Johnson,1794.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'An historical and moral view of the origin and progress of the French revolution;:
+  and the effect it has produced in Europe'
+url: http://www.gutenberg.org/ebooks/68724
